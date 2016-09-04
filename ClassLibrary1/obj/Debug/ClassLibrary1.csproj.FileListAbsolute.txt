@@ -1,0 +1,7 @@
+c:\Users\mbhanushali\documents\visual studio 2015\Projects\Drawing\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+c:\Users\mbhanushali\documents\visual studio 2015\Projects\Drawing\ClassLibrary1\obj\Debug\ClassLibrary1.Canvas.resources
+c:\Users\mbhanushali\documents\visual studio 2015\Projects\Drawing\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.GenerateResource.Cache
+c:\Users\mbhanushali\documents\visual studio 2015\Projects\Drawing\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\Users\mbhanushali\documents\visual studio 2015\Projects\Drawing\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\Users\mbhanushali\documents\visual studio 2015\Projects\Drawing\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\Users\mbhanushali\documents\visual studio 2015\Projects\Drawing\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

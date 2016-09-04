@@ -1,0 +1,13 @@
+C:\Users\mbhanushali\Documents\Visual Studio 2015\Projects\Drawing\Operations\obj\Debug\Operations.csprojResolveAssemblyReference.cache
+C:\Users\mbhanushali\Documents\Visual Studio 2015\Projects\Drawing\Operations\bin\Debug\Operations.dll
+C:\Users\mbhanushali\Documents\Visual Studio 2015\Projects\Drawing\Operations\bin\Debug\Operations.pdb
+C:\Users\mbhanushali\Documents\Visual Studio 2015\Projects\Drawing\Operations\bin\Debug\Draw.dll
+C:\Users\mbhanushali\Documents\Visual Studio 2015\Projects\Drawing\Operations\bin\Debug\Entities.dll
+C:\Users\mbhanushali\Documents\Visual Studio 2015\Projects\Drawing\Operations\bin\Debug\EntityFactory.dll
+C:\Users\mbhanushali\Documents\Visual Studio 2015\Projects\Drawing\Operations\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\mbhanushali\Documents\Visual Studio 2015\Projects\Drawing\Operations\bin\Debug\Draw.pdb
+C:\Users\mbhanushali\Documents\Visual Studio 2015\Projects\Drawing\Operations\bin\Debug\Entities.pdb
+C:\Users\mbhanushali\Documents\Visual Studio 2015\Projects\Drawing\Operations\bin\Debug\EntityFactory.pdb
+C:\Users\mbhanushali\Documents\Visual Studio 2015\Projects\Drawing\Operations\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\mbhanushali\Documents\Visual Studio 2015\Projects\Drawing\Operations\obj\Debug\Operations.dll
+C:\Users\mbhanushali\Documents\Visual Studio 2015\Projects\Drawing\Operations\obj\Debug\Operations.pdb
