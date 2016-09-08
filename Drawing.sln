@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationFactory", "Operati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeForms", "Draw\ShapeForms.csproj", "{2A997490-2298-4C71-83EB-35024B3F398A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validation", "Validation\Validation.csproj", "{8BD1F664-4870-45DE-9202-19BDFFA58F7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{2A997490-2298-4C71-83EB-35024B3F398A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A997490-2298-4C71-83EB-35024B3F398A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A997490-2298-4C71-83EB-35024B3F398A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BD1F664-4870-45DE-9202-19BDFFA58F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD1F664-4870-45DE-9202-19BDFFA58F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD1F664-4870-45DE-9202-19BDFFA58F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD1F664-4870-45DE-9202-19BDFFA58F7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

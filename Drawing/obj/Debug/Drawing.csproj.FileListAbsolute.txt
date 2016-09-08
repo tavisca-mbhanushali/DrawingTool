@@ -23,3 +23,8 @@ C:\Users\mbhanushali\Documents\Visual Studio 2015\Projects\Drawing\Drawing\bin\D
 C:\Users\mbhanushali\Documents\Visual Studio 2015\Projects\Drawing\Drawing\bin\Debug\Draw.pdb
 C:\Users\mbhanushali\Documents\Visual Studio 2015\Projects\Drawing\Drawing\obj\Debug\Drawing.exe
 C:\Users\mbhanushali\Documents\Visual Studio 2015\Projects\Drawing\Drawing\obj\Debug\Drawing.pdb
+C:\Users\mbhanushali\Desktop\Drawing\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\mbhanushali\Desktop\Drawing\Drawing\obj\Debug\Drawing.exe
+C:\Users\mbhanushali\Desktop\Drawing\Drawing\obj\Debug\Drawing.pdb
+C:\Users\mbhanushali\Documents\Visual Studio 2015\Projects\Drawing\Drawing\bin\Debug\log4net.dll
+C:\Users\mbhanushali\Documents\Visual Studio 2015\Projects\Drawing\Drawing\bin\Debug\log4net.xml
